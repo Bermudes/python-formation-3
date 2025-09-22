@@ -1,0 +1,30 @@
+La description des colonnes du jeu de données que l’on va utiliser : 
+
+State : État de résidence du client (ex. KS, OH, NJ…).
+Account Length : Durée du compte en jours (ancienneté du client).
+Area Code : Code régional téléphonique (ex. 415, 408).
+Phone : Numéro de téléphone du client (sert surtout d’identifiant).
+Int'l Plan : Indique si le client a un forfait international (yes / no).
+VMail Plan : Indique si le client a un service de messagerie vocale (yes / no).
+VMail Message : Nombre de messages vocaux stockés.
+
+- Utilisation des services (facturation séparée par période de la journée) :
+
+Day Mins / Day Calls / Day Charge : Minutes, nombre d’appels et facturation en journée.
+Eve Mins / Eve Calls / Eve Charge : Minutes, appels et facturation le soir.
+Night Mins / Night Calls / Night Charge : Minutes, appels et facturation la nuit.
+Intl Mins / Intl Calls / Intl Charge : Minutes, appels et facturation pour les appels internationaux.
+
+
+- Interactions avec le service client :
+
+CustServ Calls : Nombre d’appels passés au service client.
+
+- Cible (variable à prédire) :
+
+Churn? : Le client a-t-il résilié son contrat (True/False)
+ 
+
+
+
+​
