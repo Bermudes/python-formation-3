@@ -17,3 +17,4 @@ RAD : indice d’accessibilité aux autoroutes radiales (proximité des grands a
 TAX : taux d’imposition foncière par $10 000 de valeur cadastrale.
 PTRATIO : ratio élèves / professeurs dans les écoles du secteur.
 LSTAT : pourcentage de la population considérée comme à bas statut socio-économique.
+MEDV : la valeur médiane des logements occupés par leur propriétaire dans une zone géographique donnée, exprimée en milliers de dollars.
